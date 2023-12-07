@@ -1,0 +1,32 @@
+
+body {
+    background-color: #f7f7f7; 
+    margin: 0; 
+    padding: 20px; 
+    font-family: Arial, sans-serif; 
+}
+
+
+header {
+    background-color: rgb(0, 0, 0); 
+    color: #f8f3f3; 
+    text-align: center; 
+    padding: 10px; 
+}
+
+video {
+    width: 100%; 
+    max-width: 800px;
+    margin: 20px ;
+}
+
+p {
+    margin-bottom: 20px; 
+}
+
+footer {
+    background-color: #050404; 
+    color: #fff; 
+    text-align: center; 
+    padding: 10px;
+}
